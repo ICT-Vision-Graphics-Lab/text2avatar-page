@@ -5,7 +5,7 @@ This is the repository that contains source code for the [Text2Avatar project we
 If you find Text2Avatar useful for your work please cite:
 ```
 @article{cai2023text2avatar,
-  author    = {Cai, Xunxuan and Xiang, Sitao and Li, Zongjian and Chen, Haiwei and Zhao, Yajie},
+  author    = {Cai, Yunxuan and Xiang, Sitao and Li, Zongjian and Chen, Haiwei and Zhao, Yajie},
   title     = {Bringing Diversity from Diffusion Models to Semantic-Guided Face Asset Generation},
   journal   = {arXiv preprint},
   year      = {2025},
